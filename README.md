@@ -10,7 +10,7 @@ After filtering:
 <img src="after.png" width="400">
 
 
-Acknowldgement
+Acknowledgement
 --------------
 
 Code for integral images taken from:             
